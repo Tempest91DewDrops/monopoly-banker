@@ -95,7 +95,7 @@ func PrintMenu() {
 
 }
 
-func PerformAction() {
+one birthday")day")PerformAction() {
 
 	switch choice {
 	case 1:
